@@ -1,0 +1,4 @@
+gymnasium
+shimmy
+imageio
+mujoco
