@@ -1,10 +1,11 @@
 import os
 
-from gym import error, spaces
-from gym.utils import seeding
+import gymnasium as gym
+from gymnasium import error, spaces
+from gymnasium.utils import seeding
 import numpy as np
 from os import path
-import gym
+
 import six
 
 try:

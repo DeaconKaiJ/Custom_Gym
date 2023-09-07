@@ -3,9 +3,9 @@ from typing import Optional, Union
 
 import numpy as np
 
-import gym
-from gym import error, logger, spaces
-from gym.spaces import Space
+import gymnasium as gym
+from gymnasium import error, logger, spaces
+from gymnasium.spaces import Space
 
 try:
     import mujoco
